@@ -4,7 +4,7 @@
 
 ---
 
-![DATA INTELLIGENCE DASHBOARD](Screenshots/Dashboard.png)
+![DATA INTELLIGENCE DASHBOARD](./Screenshots/Dashboard.png)
 
 ---
 
@@ -46,7 +46,7 @@ This project demonstrates a **complete data analytics workflow** built entirely 
 
 ### 1️⃣ Date & Time Engineering
 
-![Date & Time](Screenshots/1_Date_Time.png)
+![Date & Time](./Screenshots/1_Date_Time.png)
 
 Dynamic date columns were engineered to enable time-based analysis:
 
@@ -62,7 +62,7 @@ Dynamic date columns were engineered to enable time-based analysis:
 
 ### 2️⃣ FILTER Function — Multi-Value Dynamic Returns
 
-![Filter Function](Screenshots/2_Filter.png)
+![Filter Function](./Screenshots/2_Filter.png)
 
 Using Excel's modern **`FILTER()`** function to return entire rows matching business criteria:
 
@@ -78,7 +78,7 @@ Using Excel's modern **`FILTER()`** function to return entire rows matching busi
 
 ### 3️⃣ Conditional Formatting — Visual Data Signals
 
-![Conditional Formatting](Screenshots/3_ConditionalFormating.png)
+![Conditional Formatting](./Screenshots/3_ConditionalFormating.png)
 
 Applied **icon sets and color scales** on the `Total_Amount` column to create instant visual cues:
 
@@ -94,7 +94,7 @@ This allows managers to scan hundreds of rows and instantly identify outliers wi
 
 ### 4️⃣ What-If Analysis — Goal Seek & Scenario Manager
 
-![What-If Analysis](Screenshots/4_WhatIF.png)
+![What-If Analysis](./Screenshots/4_WhatIF.png)
 
 Two powerful planning tools were implemented side-by-side:
 
@@ -117,7 +117,7 @@ Three business scenarios modeled for Unit Price & Quantity:
 
 ### 5️⃣ Regression Analysis
 
-![Regression Analysis](Screenshots/5_Regression.png)
+![Regression Analysis](./Screenshots/5_Regression.png)
 
 A **simple linear regression** was run using Excel's Data Analysis ToolPak to model the relationship between **Quantity Sold → Total Revenue**.
 
@@ -144,7 +144,7 @@ Revenue = -148.85 + (353.79 × Quantity)
 
 ### 6️⃣ Storytelling with Data
 
-![Storytelling Insights](Screenshots/6_Storytelling.png)
+![Storytelling Insights](./Screenshots/6_Storytelling.png)
 
 A pivot table was transformed into a **narrative insights block** — converting raw numbers into business language:
 
@@ -165,7 +165,7 @@ A pivot table was transformed into a **narrative insights block** — converting
 
 ### 7️⃣ High-Value Customer Segmentation
 
-![High-Value Customers](Screenshots/7_HighValueCustomer.png)
+![High-Value Customers](./Screenshots/7_HighValueCustomer.png)
 
 Customers were classified using an **IF-based formula** on total spending:
 
@@ -189,7 +189,7 @@ Customers were classified using an **IF-based formula** on total spending:
 
 ### 8️⃣ Pivot Tables & Charts
 
-![Pivot Tables](Screenshots/8_PivotTables.png)
+![Pivot Tables](./Screenshots/8_PivotTables.png)
 
 Multiple pivot tables and linked charts were built for multi-dimensional analysis:
 
@@ -214,7 +214,7 @@ Multiple pivot tables and linked charts were built for multi-dimensional analysi
 
 ### 9️⃣ Matching Names & Text Functions
 
-![Matching Names](Screenshots/9_MatchingNames.png)
+![Matching Names](./Screenshots/9_MatchingNames.png)
 
 Cross-list name matching and abbreviation generation using text formulas:
 
@@ -235,7 +235,7 @@ Cross-list name matching and abbreviation generation using text formulas:
 
 ### 🔟 Final Insights Report
 
-![Final Report](Screenshots/10_Final_Report.png)
+![Final Report](./Screenshots/10_Final_Report.png)
 
 An executive summary sheet consolidating all analysis into a single-page report:
 
@@ -259,7 +259,7 @@ An executive summary sheet consolidating all analysis into a single-page report:
 
 ## 📈 Data Intelligence Dashboard
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](./Screenshots/Dashboard.png)
 
 The final dashboard integrates all analysis into a single, interactive view:
 
@@ -310,3 +310,10 @@ The final dashboard integrates all analysis into a single, interactive view:
 
 ---
 
+## 📄 License
+
+This project is created for educational and portfolio purposes.
+
+---
+
+> *"Data is the new oil — this project is the refinery."*
