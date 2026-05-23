@@ -235,7 +235,7 @@ Cross-list name matching and abbreviation generation using text formulas:
 
 ### 🔟 Final Insights Report
 
-![Final Report](./Screenshots/10.Final_Report.png)
+![Final Report](./Screenshots/10.Final Report.png)
 
 An executive summary sheet consolidating all analysis into a single-page report:
 
