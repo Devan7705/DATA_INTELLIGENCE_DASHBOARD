@@ -214,7 +214,7 @@ Multiple pivot tables and linked charts were built for multi-dimensional analysi
 
 ### 9️⃣ Matching Names & Text Functions
 
-![Matching Names](./Screenshots/9_MatchingNames.png)
+![Matching Names](./Screenshots/9.MatchingNames.png)
 
 Cross-list name matching and abbreviation generation using text formulas:
 
