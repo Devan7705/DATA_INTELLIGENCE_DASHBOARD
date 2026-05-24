@@ -46,7 +46,7 @@ This project demonstrates a **complete data analytics workflow** built entirely 
 
 ### 1️⃣ Date & Time Engineering
 
-![Date & Time](./Screenshots/1.Date_Time.png)
+![Date & Time](./Screenshots/1.Date&Time.png)
 
 Dynamic date columns were engineered to enable time-based analysis:
 
